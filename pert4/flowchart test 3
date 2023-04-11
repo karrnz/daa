@@ -1,0 +1,6 @@
+```mermaid
+A(start) --float--> B[/masukkan nilai ukuran dalam satuan meter/];
+B --> C[/tampilkan ukuran meter setelah dikonversi ke ukuran cm/];
+C --> D[/tampilkan ukuran meter setelah dikonversi ke ukuran inci/];
+D --> E(finish);
+```
